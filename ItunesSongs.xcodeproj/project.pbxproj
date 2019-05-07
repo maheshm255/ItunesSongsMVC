@@ -18,6 +18,7 @@
 		044ECA1C207116CA001289BF /* Service.swift in Sources */ = {isa = PBXBuildFile; fileRef = 044ECA1B207116CA001289BF /* Service.swift */; };
 		044ECA212071175D001289BF /* Track.swift in Sources */ = {isa = PBXBuildFile; fileRef = 044ECA202071175D001289BF /* Track.swift */; };
 		044ECA2620712D35001289BF /* EndPoints.swift in Sources */ = {isa = PBXBuildFile; fileRef = 044ECA2520712D35001289BF /* EndPoints.swift */; };
+		04741600228233CF00A06559 /* HiomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047415FF228233CF00A06559 /* HiomeViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		044ECA1B207116CA001289BF /* Service.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Service.swift; sourceTree = "<group>"; };
 		044ECA202071175D001289BF /* Track.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Track.swift; sourceTree = "<group>"; };
 		044ECA2520712D35001289BF /* EndPoints.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EndPoints.swift; sourceTree = "<group>"; };
+		047415FF228233CF00A06559 /* HiomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HiomeViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -149,6 +151,7 @@
 			isa = PBXGroup;
 			children = (
 				044ECA162071142D001289BF /* TrackViewController.swift */,
+				047415FF228233CF00A06559 /* HiomeViewController.swift */,
 			);
 			path = ViewController;
 			sourceTree = "<group>";
@@ -312,6 +315,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				044EC9E12071114E001289BF /* AppDelegate.swift in Sources */,
+				04741600228233CF00A06559 /* HiomeViewController.swift in Sources */,
 				044ECA212071175D001289BF /* Track.swift in Sources */,
 				044ECA1C207116CA001289BF /* Service.swift in Sources */,
 				044ECA172071142D001289BF /* TrackViewController.swift in Sources */,
